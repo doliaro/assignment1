@@ -5,3 +5,5 @@ My name is Dominic Oliaro and Im from Santa Fe, New Mexico. I attended the Unive
 I spend my free time playing hockey, being with my family and occasionally some video games.
 
 I really enjoyed the battleship game I built in CS161 for the final project.It was neat to bring all my knowledge together.
+
+In CS162 I felt like I really improved upon my C++ knowledge and was really becoming more comfortable with it. I was much more proud of my work as I continued to learn. 
