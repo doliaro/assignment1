@@ -8,3 +8,4 @@ In CS162 I felt like I really improved upon my C++ knowledge and was really beco
 
 In some of my free time I have also studied Javascript and some of its frameworks. 
 
+Im having trouble of thinking of something else to add so Im writing this sentence. 
